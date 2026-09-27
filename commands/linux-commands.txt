@@ -1,0 +1,22 @@
+pwd - show current directory
+ls - list files
+cd - change directory
+mkdir - create directory
+touch - create file
+cp - copy files
+mv - move/rename files
+rm - remove files
+cat - display file contents
+nano - edit files
+chmod - change permissions
+ps - show processes
+df - show disk usage
+free - show memory usage
+whoami - show current user
+git status - show Git status
+git add - stage changes
+git commit - create a commit
+git push - upload commits
+git branch - show branches
+git switch - switch branches
+git merge - merge branches
