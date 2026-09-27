@@ -21,3 +21,8 @@ Example:
 
 ```bash
 ./scripts/backup.sh test.txt
+
+## Project Goal
+
+The goal of this project is to demonstrate practical Linux,
+Bash scripting, Git and basic DevOps automation skills.
